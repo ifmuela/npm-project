@@ -12,4 +12,4 @@ var Person = function Person(name) {
 };
 
 var Ian = new Person('Ian');
-// console.log(Ian.channel('Aprendiendo frontend'));s
+console.log(Ian.channel('Aprendiendo frontend'));s;

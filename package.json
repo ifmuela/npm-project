@@ -17,6 +17,7 @@
     "lint:js": "eslint src/js/**/*.js",
     "lint": "npm run lint:sass && npm run lint:js"
   },
+  "pre-commit":["lint"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ifmuela/npm-project.git"

@@ -10,4 +10,4 @@ var Person = function(name){
 };
 
 const Ian = new Person('Ian');
-// console.log(Ian.channel('Aprendiendo frontend'));s
+console.log(Ian.channel('Aprendiendo frontend'));s
